@@ -73,6 +73,9 @@ The setup process of [@joeleeofficial](https://joe.js.org) mac
         behind-the-scene * image noop
         behind-the-scene * inline-script noop
       ```
+      
+ > This is the setup process of [Chee Yong Lee](https://github.com/leecheeyong]'s Mac, feel free to use the list above as a reference. 
+ > Give [@joeleeofficial](https://github.com/joeleeofficial) & [@leecheeyong](https://github.com/leecheeyong) a follow 
 
 
 
