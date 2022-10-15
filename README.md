@@ -24,6 +24,7 @@ The setup process of a mac
     - Greyscale: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
 - Run `defaults write -g ApplePressAndHoldEnabled -bool false` in terminal to disable press and hold an alphabet for options
+- Uninstall unused apps like Garage Band, Keynote, Numbers, .etc
 - Install mozilla firefox
     - Settings General
       > <img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989450-e6519587-156c-4598-96db-a0e41bdfb8cf.png"><br><img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989483-f3fa88a6-84a5-4188-ae1f-4010bc7aecea.png"><br><img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989507-e0d9c88d-38a8-4fff-beee-97fca0972639.png"><br><img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989534-eb74fc0e-0cbd-4e09-890d-4afda52d1331.png"><br><img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989567-cc192d4e-dfb4-435d-b80a-389cbe053a23.png">
