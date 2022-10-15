@@ -15,6 +15,7 @@ The setup process of a mac
 - Trackpad > Tracking speed fastest
 - Trackpad > enable Silent Clicking & force click and haptic feedback
 - Keyboard: 
+
      <img width="658" alt="image" src="https://user-images.githubusercontent.com/81070048/195978490-42e4aff0-84bc-4e99-a802-9a3c4125645c.png">
 - Create these shortcuts:
     - Greyscale: 
