@@ -24,6 +24,62 @@ The setup process of a mac
     - Greyscale: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
 - Run `defaults write -g ApplePressAndHoldEnabled -bool false` in terminal to disable press and hold an alphabet for options
+- Install mozilla firefox
+    - Settings General
+      > <img width="291" alt="image" src="https://user-images.githubusercontent.com/81070048/195989450-e6519587-156c-4598-96db-a0e41bdfb8cf.png">
+      > <img width="340" alt="image" src="https://user-images.githubusercontent.com/81070048/195989483-f3fa88a6-84a5-4188-ae1f-4010bc7aecea.png">
+      > <img width="340" alt="image" src="https://user-images.githubusercontent.com/81070048/195989507-e0d9c88d-38a8-4fff-beee-97fca0972639.png">
+      > <img width="340" alt="image" src="https://user-images.githubusercontent.com/81070048/195989534-eb74fc0e-0cbd-4e09-890d-4afda52d1331.png">
+      > <img width="273" alt="image" src="https://user-images.githubusercontent.com/81070048/195989567-cc192d4e-dfb4-435d-b80a-389cbe053a23.png">
+    - Settings Home
+      > <img width="273" alt="image" src="https://user-images.githubusercontent.com/81070048/195989619-15632fe6-8783-4733-9d68-a169aeb98b09.png">
+    - Settings Search
+      > <img width="367" alt="image" src="https://user-images.githubusercontent.com/81070048/195989659-c919cc35-de28-445a-a3fb-de2624062c80.png">
+    - Settings Privacy & Security
+      > Strict Mode
+      > Do not track: Always
+      > Uncheck everything in Login & Passwords
+      > Never Remember History
+      > Uncheck everything in Address Bar
+      > Disable everything in Firefox Data Collection And Use
+      > HTTPS only mode in all windows
+    - Never show bookmark toolbar
+    - Delete default bookmarks
+    - Install uBlock Origin & Prevent Misclick (login required)
+    - Setup uBlock Origin
+      > <img width="294" alt="image" src="https://user-images.githubusercontent.com/81070048/195989979-8f4cac66-1c67-4907-b09e-9868ad6e1efc.png">
+      > Set Rule:
+```
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: behind-the-scene false
+no-popups: discord.com true
+no-remote-fonts: * true
+no-remote-fonts: classroom.google.com false
+no-remote-fonts: developers.google.com false
+no-scripting: * true
+no-scripting: discord.com false
+no-scripting: github.com false
+no-scripting: accounts.google.com false
+no-scripting: classroom.google.com false
+no-scripting: developers.google.com false
+no-scripting: docs.google.com false
+no-scripting: drive.google.com false
+no-scripting: mail.google.com false
+no-scripting: www.google.com false
+no-scripting: www.youtube.com false
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+```
 
 
 
+
+
+
+    
