@@ -43,8 +43,8 @@ The setup process of a mac
     - Delete default bookmarks
     - Install uBlock Origin & Prevent Misclick (login required)
     - Setup uBlock Origin
-      > <img width="294" alt="image" src="https://user-images.githubusercontent.com/81070048/195989979-8f4cac66-1c67-4907-b09e-9868ad6e1efc.png">
-      > Set Rule:
+      > <img width="294" alt="image" src="https://user-images.githubusercontent.com/81070048/195989979-8f4cac66-1c67-4907-b09e-9868ad6e1efc.png"><br>
+      > Set Rule: <br>
 ```
 no-csp-reports: * true
 no-large-media: * true
