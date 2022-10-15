@@ -22,5 +22,4 @@ The setup process of a mac
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
 
 
-<style>body { color: white; background-color: black }</style>
 
