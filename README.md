@@ -1,5 +1,5 @@
 # Mac Setup
-The setup process of a mac
+The setup process of [@joeleeofficial](https://joe.js.org) mac
 
 - Create a user without admin privileges
 - Enable file vault
