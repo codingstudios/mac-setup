@@ -1,5 +1,6 @@
 # Mac Setup
 The setup process of a mac
+<style>body { color: white; background-color: black }</style>
 
 - Create a user without admin privileges
 - Enable file vault
