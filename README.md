@@ -1,6 +1,5 @@
 # Mac Setup
 The setup process of a mac
-<style>body { color: white; background-color: black }</style>
 
 - Create a user without admin privileges
 - Enable file vault
@@ -21,4 +20,7 @@ The setup process of a mac
 - Create these shortcuts:
     - Greyscale: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
+
+
+<style>body { color: white; background-color: black }</style>
 
