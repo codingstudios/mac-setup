@@ -12,7 +12,7 @@ The setup process of a mac
 - Enable find my mac
 - Dock & Menu Bar:
 
-<img width="462" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
+<img width="231" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
 
 - Trackpad > Enable all trackpad gesture, scroll & zoom, point & click
 - Trackpad > Click - Medium
@@ -20,11 +20,11 @@ The setup process of a mac
 - Trackpad > enable Silent Clicking & force click and haptic feedback
 - Keyboard: 
 
-<img width="658" alt="image" src="https://user-images.githubusercontent.com/81070048/195978490-42e4aff0-84bc-4e99-a802-9a3c4125645c.png">
+<img width="329" alt="image" src="https://user-images.githubusercontent.com/81070048/195978490-42e4aff0-84bc-4e99-a802-9a3c4125645c.png">
 
 - Create these shortcuts:
     - Greyscale: 
-        <img width="1064" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
+        <img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
     - Text Capture: 
-        <img width="1060" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
+        <img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
 
