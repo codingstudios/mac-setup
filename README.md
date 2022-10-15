@@ -46,32 +46,32 @@ The setup process of a mac
       > <img width="294" alt="image" src="https://user-images.githubusercontent.com/81070048/195989979-8f4cac66-1c67-4907-b09e-9868ad6e1efc.png"><br>
       > Set Rule: <br>
       > ```
-        no-csp-reports: * true
-        no-large-media: * true
-        no-large-media: behind-the-scene false
-        no-popups: discord.com true
-        no-remote-fonts: * true
-        no-remote-fonts: classroom.google.com false
-        no-remote-fonts: developers.google.com false
-        no-scripting: * true
-        no-scripting: discord.com false
-        no-scripting: github.com false
-        no-scripting: accounts.google.com false
-        no-scripting: classroom.google.com false
-        no-scripting: developers.google.com false
-        no-scripting: docs.google.com false
-        no-scripting: drive.google.com false
-        no-scripting: mail.google.com false
-        no-scripting: www.google.com false
-        no-scripting: www.youtube.com false
-        behind-the-scene * * noop
-        behind-the-scene * 1p-script noop
-        behind-the-scene * 3p noop
-        behind-the-scene * 3p-frame noop
-        behind-the-scene * 3p-script noop
-        behind-the-scene * image noop
-        behind-the-scene * inline-script noop
-        ```
+no-csp-reports: * true
+no-large-media: * true
+no-large-media: behind-the-scene false
+no-popups: discord.com true
+no-remote-fonts: * true
+no-remote-fonts: classroom.google.com false
+no-remote-fonts: developers.google.com false
+no-scripting: * true
+no-scripting: discord.com false
+no-scripting: github.com false
+no-scripting: accounts.google.com false
+no-scripting: classroom.google.com false
+no-scripting: developers.google.com false
+no-scripting: docs.google.com false
+no-scripting: drive.google.com false
+no-scripting: mail.google.com false
+no-scripting: www.google.com false
+no-scripting: www.youtube.com false
+behind-the-scene * * noop
+behind-the-scene * 1p-script noop
+behind-the-scene * 3p noop
+behind-the-scene * 3p-frame noop
+behind-the-scene * 3p-script noop
+behind-the-scene * image noop
+behind-the-scene * inline-script noop
+```
 
 
 
