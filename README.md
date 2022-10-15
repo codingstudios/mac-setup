@@ -10,6 +10,7 @@ The setup process of a mac
 - Sign in Apple ID on the user account
 - Privacy > Disable all analytics
 - Enable find my mac
+- Settings > General: <br><img width="289" alt="image" src="https://user-images.githubusercontent.com/81070048/195978887-a2205a31-e4d6-4153-9589-2f330e4e1c12.png">
 - Dock & Menu Bar: <br><img width="231" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
 - Trackpad > Enable all trackpad gesture, scroll & zoom, point & click
 - Trackpad > Click - Medium
