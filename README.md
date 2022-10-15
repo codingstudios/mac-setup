@@ -11,8 +11,8 @@ The setup process of a mac
 - Privacy > Disable all analytics
 - Enable find my mac
 - Dock & Menu Bar:
-     <img width="462" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
 
+<img width="462" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
 - Trackpad > Enable all trackpad gesture, scroll & zoom, point & click
 - Trackpad > Click - Medium
 - Trackpad > Tracking speed fastest
