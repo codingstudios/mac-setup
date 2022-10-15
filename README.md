@@ -10,6 +10,9 @@ The setup process of a mac
 - Sign in Apple ID on the user account
 - Privacy > Disable all analytics
 - Enable find my mac
+- Dock & Menu Bar:
+     <img width="462" alt="image" src="https://user-images.githubusercontent.com/81070048/195978683-890b1867-bb1d-4054-9c72-d6b147ed0d35.png">
+
 - Trackpad > Enable all trackpad gesture, scroll & zoom, point & click
 - Trackpad > Click - Medium
 - Trackpad > Tracking speed fastest
@@ -22,3 +25,4 @@ The setup process of a mac
         <img width="1064" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
     - Text Capture: 
         <img width="1060" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
+
