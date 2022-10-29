@@ -1,7 +1,7 @@
 # Mac Setup
 Mac settings on macos ventura
 
-Useful Shorcuts
+## Useful Shorcuts
 - Hover to  and press `option` key then click  to be able to access system information
 - Option + Shift (volume or brightness)
 - Move library out from finder, (menu bar click go then press option, add that to sidebar)
