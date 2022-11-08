@@ -28,9 +28,9 @@ but one that bothers me alot was that it consumes a lot more power than it used 
 - Create these shortcuts:
     - Greyscale: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978548-39e11354-7b73-4bc3-8713-5b0e00fcfaa7.png">
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
-- Run `defaults write -g ApplePressAndHoldEnabled -bool false` in terminal to disable press and hold an alphabet for options
 - Uninstall unused apps like Garage Band, Keynote, Numbers, .etc
     - Remove Background: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/200516532-26df6ec9-5ef2-4b7a-be33-913219d9b57c.png">
+- Run `defaults write -g ApplePressAndHoldEnabled -bool false` in terminal to disable press and hold an alphabet for options
 - Install mozilla firefox
     - Align Toolbar
       > <img width="900" alt="image" src="https://user-images.githubusercontent.com/81070048/198863883-8a1093f9-47fc-4904-80ca-fc38b1e2f8d7.png">
