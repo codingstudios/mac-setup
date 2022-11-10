@@ -30,6 +30,7 @@ but one that bothers me alot was that it consumes a lot more power than it used 
    - Text Capture:  <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/195978565-de7344a6-b9d0-4335-b733-1eb5198179ac.png">
 - Uninstall unused apps like Garage Band, Keynote, Numbers, .etc
     - Remove Background: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/200516532-26df6ec9-5ef2-4b7a-be33-913219d9b57c.png">
+    - Make GIF: <br><img width="532" alt="image" src="https://user-images.githubusercontent.com/81070048/201111348-54dda2fd-68d2-415c-b9d6-5bc4f80b4222.png">
 - Run `defaults write -g ApplePressAndHoldEnabled -bool false` in terminal to disable press and hold an alphabet for options
 - Install mozilla firefox
     - Align Toolbar
