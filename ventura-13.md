@@ -19,3 +19,4 @@ Mac settings on macos ventura
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/81070048/198843940-fbe8127d-013e-487b-a74c-b65dddf7ff62.png">
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/81070048/198843982-29d8643f-4ed8-4d46-bf20-d1e654855320.png">
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/81070048/198843994-6911d6be-4219-4c1b-ba33-319d653dee72.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/81070048/219722444-042dc423-e9df-43f2-946b-2651de1cc5d8.png">
