@@ -2,7 +2,7 @@
 The setup process of [@joeleeofficial](https://joe.js.org) mac
 
 ## Comments
-> I recently upgraded to macos 13 (Ventura) and I wans't too happy with it. MacOS 13 seems to be a little buggy sometimes, hard to explain my situation
+> Recently, I upgraded to macos 13 (Ventura) and I wans't too happy with it. MacOS 13 seems to be a little buggy sometimes, hard to explain my situation
 but one that bothers me alot was that it consumes a lot more power than it used to on Monterey. Stage Manager isn't as useful without an external display. Currently still couldn't get continuity camera to work for me. Check out [my settings on macos 13](./ventura-13.md)
 
 
