@@ -1,5 +1,5 @@
 # Mac Setup
-The setup process of [@joeleeofficial](https://joe.js.org) mac
+The setup process of [@leecheeyong](https://joe.js.org) mac
 
 ## Comments
 Check out [my settings on macos 13](./ventura-13.md)
@@ -84,7 +84,7 @@ Check out [my settings on macos 13](./ventura-13.md)
     
     
  > This is the setup process of [Chee Yong Lee](https://github.com/leecheeyong)'s Mac, feel free to use the list above as a reference. 
-   Give [@joeleeofficial](https://github.com/joeleeofficial) & [@leecheeyong](https://github.com/leecheeyong) a follow if you found this useful.
+   Give [@leecheeyong](https://github.com/leecheeyong) a follow if you found this useful.
 
 
 
